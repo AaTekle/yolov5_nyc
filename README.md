@@ -1,6 +1,6 @@
 # Object Detection using yolov5
 
-### **Libraries Used:** cv2, PyTorch
+## **Libraries Used:** cv2, PyTorch
 
 ### **Models used:** yolov5
 
