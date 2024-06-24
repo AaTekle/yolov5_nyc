@@ -10,7 +10,7 @@
 * **OpenCV (cv2):** Helped with video-frame processing and framing for real-time image processing
 * **PyTorch:** Helped with tensor conversion and manipulation for GPU processing
 
-#### Trimmed Video Preview that displays the output_video.mp4 file within this repo below
+### Trimmed Video Preview that displays the output_video.mp4 file within this repo below
 
 https://github.com/AaTekle/yolov5_nyc/assets/108105300/e02d1bc1-5499-4be1-bc31-64a5189a2791
 
