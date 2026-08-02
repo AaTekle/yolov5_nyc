@@ -2,7 +2,7 @@
 
 ### **Pre-Trained Models used:** yolov5
 
-**Motivation:** Project that utilizes yolov5's pre-trained CNN (Convolutional Neural Network) to identify objects within a video in NYC (Timelapse footage of people walking inside Grand Central Station in New York.)
+**Goal:** Project uses yolov5's pre-trained CNN (Convolutional Neural Network) to identify objects within a video in NYC (Timelapse footage of people walking inside Grand Central Station in New York.)
 
 ### **Libraries Used:**
 * **OpenCV (cv2):** Helped with video-frame processing and framing for real-time image processing
